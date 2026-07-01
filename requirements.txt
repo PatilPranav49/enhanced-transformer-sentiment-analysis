@@ -1,0 +1,11 @@
+torch
+transformers
+datasets
+pandas
+numpy
+scikit-learn
+matplotlib
+shap
+vaderSentiment
+accelerate
+evaluate
